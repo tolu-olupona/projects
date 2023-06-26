@@ -1,0 +1,13 @@
+{
+    "id":"c345a520-427d-11ed-89ee-67d0bd88cc20",
+    "filters_owners": [
+        {
+            "filter":"CNL","owner":"Paul"
+        },{
+            "filter":"Calibre OS", "owner":"George"
+        },
+        {
+            "filter":"CRS-OS","owner":"George"
+        }
+    ]
+}
